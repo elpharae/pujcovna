@@ -14,4 +14,4 @@ pip install -r requirements.txt
 
 4. spusteni serveru 
 
-flask run
+python3 app.py
